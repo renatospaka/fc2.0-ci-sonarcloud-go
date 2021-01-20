@@ -1,0 +1,7 @@
+mode: set
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:5.13,7.2 1 0
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:9.28,11.2 1 1
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:13.28,15.2 1 1
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:17.30,19.2 1 1
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:21.28,23.2 1 0
+/home/renatospaka/dev/cursos/fc/t9/devops/sonarqube/math/sum.go:25.29,27.2 1 0
