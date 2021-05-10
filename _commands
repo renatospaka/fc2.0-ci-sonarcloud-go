@@ -1,0 +1,5 @@
+## sonaqube docker  pwd => minhasenha
+go test -coverprofile=coverage.out
+
+sonar-scanner
+
